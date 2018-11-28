@@ -1,0 +1,7 @@
+dist
+dist-newstyle
+.stack-work
+.cabal-sandbox
+.git
+cabal.sandbox.config
+.ghc*
