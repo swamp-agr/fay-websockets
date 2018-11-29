@@ -1,5 +1,7 @@
 # fay-websockets
 
+[![Build Status](https://travis-ci.org/swamp-agr/fay-websockets.svg?branch=master)](https://travis-ci.org/swamp-agr/fay-websockets)
+
 A FFI Wrapper for WebSockets use with Fay. It includes functions for WebSockets connection initialization, handling WebSockets events and sending data over WebSockets.
 
 ## Installation
