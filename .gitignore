@@ -5,3 +5,4 @@ dist-newstyle
 .git
 cabal.sandbox.config
 .ghc*
+cabal-*sh
