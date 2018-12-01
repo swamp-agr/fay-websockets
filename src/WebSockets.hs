@@ -59,3 +59,7 @@ sendWS = ffi "%1.send(%2)"
 -- | Close current connection.
 close :: WebSocket -> Fay ()
 close = ffi "%1.close"
+
+-- | Get @'WebSocket'@ from @'WSEvent'@.
+target :: WSEvent -> Fay WebSocket
+target = ffi "%1['target']"

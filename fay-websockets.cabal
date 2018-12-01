@@ -1,5 +1,5 @@
 name:                fay-websockets
-version:             0.0.1.0
+version:             0.0.1.1
 synopsis:            Websockets FFI library for Fay
 description:         Websockets FFI library for Fay
 homepage:            https://github.com/swamp-agr/fay-websockets
